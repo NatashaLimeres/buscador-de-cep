@@ -59,3 +59,6 @@ function App() {
 }
 
 export default App;
+
+//adjusting development integration with vercel
+
