@@ -1,5 +1,5 @@
 ![preview](./.github/preview.png)
-# Buscador de CEP
+# Buscador de CEP 📍
 
 Projeto realizado baseado no vídeo do Youtube do Sujeito programador. O propósito do vídeo é fazer um projeto chamado "Buscador de CEP" utilizando React para estudar alguns conceitos e praticar a biblioteca.
 
