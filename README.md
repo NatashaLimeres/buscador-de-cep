@@ -10,6 +10,6 @@ Project based on Sujeito programador's Youtube video. The pupose of the video is
 After cloning the repository, it's necessary to run npm install on the project directory. Then, just run npm run start to serve locally.
 
 🔗 Links úteis: 
-Youtube vídeo: https://www.youtube.com/watch?v=oy4cbqE1_qc
+Youtube vídeo: https://youtu.be/oy4cbqE1_qc
 
 Desenvolvido com 💘 por Natasha Limeres
